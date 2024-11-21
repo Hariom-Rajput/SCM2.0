@@ -12,4 +12,4 @@ node_modules/
 
 scm/src/main/resources/static/css/output.css
 
-scm/src/main/resources/application.properties
+scm/scm/src/main/resources/application.properties
