@@ -11,3 +11,5 @@ node_modules/
 .vscode/
 
 scm/src/main/resources/static/css/output.css
+
+scm/src/main/resources/application.properties
