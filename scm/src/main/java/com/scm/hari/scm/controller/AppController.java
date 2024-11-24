@@ -8,9 +8,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 @RequestMapping("/scm")
 public class AppController {
 
-
-
-    
     @GetMapping("/home")
     public String homePage() {
         return "home";
